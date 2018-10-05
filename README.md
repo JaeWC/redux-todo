@@ -1,9 +1,8 @@
-# Description off the project
-
-This todo app use react and redux. it was created just for one basic tutorial. The user's can add new todos, mark as completed, remove a todo, and filter todos.
+## redux todo app
+You will build a todo application using react along with react-redux library
 
 ## Screenshots
-
+the app will look like the follwoings, but the styles are totally up to you
 ![](/screenshots/00.jpg)
 ![](/screenshots/01.jpg)
 ![](/screenshots/03.jpg)
